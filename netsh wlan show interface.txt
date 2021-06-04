@@ -1,0 +1,24 @@
+                          Through this commands, netsh wlan show interfaces
+                          >>netsh wlan show interfaces | clip #you will be able to copy the output
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Qualcomm Atheros QCA9377 Wireless Network Adapter
+    GUID                   : $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    Physical address       : $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    State                  : connected
+    SSID                   : $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    BSSID                  : $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 3
+    Receive rate (Mbps)    : 72.2
+    Transmit rate (Mbps)   : 72.2
+    Signal                 : 100% 
+    Profile                : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Hosted network status  : Not available
+
