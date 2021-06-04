@@ -1,0 +1,37 @@
+                    By typing this, you will be able to find the drivers info of
+                    your computer.
+                    >>netsh wlan show driver.
+                    >>netsh wlan show driver | clip #can be used to copy the output
+    Interface name: Wi-Fi
+
+    Driver                    : Qualcomm Atheros QCA9377 Wireless Network Adapter
+    Vendor                    : Qualcomm Atheros Communications Inc.
+    Provider                  : Qualcomm Atheros Communications Inc.
+    Date                      : 6/14/2020
+    Version                   : 12.0.0.953
+    INF file                  : oem37.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11a 802.11g 802.11n 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : No
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Personal    TKIP
+                                WPA2-Enterprise TKIP
+                                WPA2-Personal   TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise CCMP
+                                Vendor defined  CCMP
+                                Vendor defined  CCMP
+                                WPA2-Personal   CCMP
+                                WPA3-Personal   CCMP
+                                OWE             CCMP
+                                Vendor defined  Vendor defined
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
